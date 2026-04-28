@@ -1,0 +1,20 @@
+You are helping build Cosmic Curiosity Agent.
+
+Project goal:
+- Build an AI-powered educational agent for universe and space "what if" questions.
+- Keep explanations scientific, simple, cinematic, and engaging.
+- Keep output structured every time.
+- Do not expose API keys or secrets.
+- Do not commit .env.
+- Use environment variables for API keys.
+- Keep code beginner-friendly.
+- Preserve project structure unless necessary.
+
+Agent output should include:
+- Short Answer
+- Scientific Breakdown
+- Reality Score out of 10,000
+- Danger Level
+- Imagination Scene
+- Fun Facts
+- Final Verdict
